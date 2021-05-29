@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Instructions{
+    float: left;
+    border: 5px;
+    border-color: white;
+}
+
+.heading
+{
+    width: 100%;
+}
